@@ -19,7 +19,8 @@ This interactive Tableau dashboard analyzes COVID-19 death patterns based on:
 
 ---
 
-![Dashboard Preview](dashboard-preview.png) <!-- Optional: if you upload a screenshot -->
+![Dashboard Preview](dashboard-preview.png)
+
 
 👨‍💻 Created by **Krishna Teja Reddy Kotla**  
 🎓 Master’s in MIS, Auburn University at Montgomery
